@@ -1,0 +1,9 @@
+
+server:
+  port: 8080
+
+telegram:
+  bot:
+    token: 8853001125:AAGJK2dqrSlX-5lr_M9nbFMA9goNwydM8eo
+  chat:
+    id: 1013631236
